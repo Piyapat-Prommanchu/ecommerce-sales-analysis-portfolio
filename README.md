@@ -50,3 +50,9 @@ Region refers to the customer's region, not the shipping location.
 - The dataset is synthetic and does not represent a real business.
 - The analysis describes observed patterns, not their causes.
 - The dataset does not include profit or marketing costs.
+
+<img width="3977" height="2236" alt="01_dashboard_overview" src="https://github.com/user-attachments/assets/1f8b63d7-0a11-4fa9-bf1b-3bd9f4d0c04b" />
+
+<img width="855" height="334" alt="09_data_model" src="https://github.com/user-attachments/assets/18109ba2-c47c-47e7-b117-6dc39570780c" />
+
+
