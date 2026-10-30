@@ -28,7 +28,7 @@
 ## Dashboard Summary
    An interactive Power BI dashboard tracking e-commerce performance for 2024–2025, consolidating key metrics into a single view. The business generated 2.74M THB in Total Revenue from 428 completed orders, with an Average Order Value (AOV) of 6,393.49 THB. Electronics emerged as the top-performing category (~1.12M THB), while Bangkok led all regions in sales (~843.66K THB).
 
-## Note : 
+### Note : 
 - Revenue and average order value include completed orders only.
 - Region refers to the customer's region, not the shipping location.
 
@@ -93,7 +93,7 @@ ecommerce-sales-portfolio/
 
 <img width="855" height="334" alt="09_data_model" src="https://github.com/user-attachments/assets/18109ba2-c47c-47e7-b117-6dc39570780c" />
 
-## Designed based on the Star Schema architecture to optimize data processing and filtering performance in Power BI
+### Designed based on the Star Schema architecture to optimize data processing and filtering performance in Power BI
 
 ## Dimension Tables & Relationships:
   - `products` --> `orders`: Joined via `product_id` to filter data by product category.
