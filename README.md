@@ -1,8 +1,8 @@
 # E-commerce Sales Performance Analysis
-# "This project uses SQL and Power BI as its tools." 
+"This project uses SQL and Power BI as its tools." 
 
-A beginner portfolio project using SQLite and Power BI
-to analyze e-commerce sales performance.
+### Project Overview
+This project focuses on analyzing sales performance and consumer purchasing behavior from 2024 to 2025, utilizing a dataset of 500 order records across 50 customers and 20 product items. The workflow began with using SQL for data extraction and transformation to compute key business metrics, followed by Power BI to design interactive dashboards that display growth statistics and support data-driven business decisions.
 
 ## Business Questions
 
