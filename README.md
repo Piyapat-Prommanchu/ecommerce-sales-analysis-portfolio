@@ -1,4 +1,5 @@
 # E-commerce Sales Performance Analysis
+# "This project uses SQL and Power BI as its tools." 
 
 A beginner portfolio project using SQLite and Power BI
 to analyze e-commerce sales performance.
